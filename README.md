@@ -1,6 +1,11 @@
 
 # A Simple ETL for sanitizing data before loading into MySQL
 
+## Main
+ETL is automatically run upon start up of the docker container.
+No execution is required. 
+Just navigate to any database tools and connect to the database and view the data
+
 ## Installation
 ```
 cd python-etl
